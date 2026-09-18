@@ -31,30 +31,3 @@ The local build targets Kirikiroid2 running through PlayCover on macOS.
 
 Local checks covered 48 route cases, menu behavior, legacy afterstory bookmarks, ending control flow, and archive integrity. These checks do not establish complete visual or audio fidelity.
 
-## Bug Reports
-
-Please include:
-
-1. Adaptation, Kirikiroid2, PlayCover, and macOS versions.
-2. Device model and chapter or scene.
-3. Steps to reproduce the issue.
-4. Expected and actual behavior.
-5. Whether auto/skip was enabled or a save was loaded.
-6. A relevant screenshot, error message, or recording. For sound issues, ensure the recording contains an audio track.
-
-Remove personal information from logs before sharing.
-
-## Release Notes Template
-
-Future release notes should include:
-
-- Version and release date.
-- Changes and fixes.
-- Required dependencies and supported runtime versions.
-- Tests completed and scenarios checked.
-- Save compatibility and known issues.
-- Package contents and SHA-256 checksums.
-
-## Project Scope
-
-This is an unofficial adaptation project and is not affiliated with the original developer or publisher. Original game content and third-party components remain subject to their respective rights and licenses.
