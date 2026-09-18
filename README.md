@@ -4,9 +4,8 @@ An experimental adaptation of **Wonderful Everyday (Subahibi)** for Kirikiroid2 
 
 ## Project Status
 
-The local adaptation has reached revision 14. This repository currently contains the project framework only. No downloadable build has been published here.
+The local adaptation has reached revision 14. The work currently isn't finished, several bugs still appear in the game itself, fixed will be done as soon as possible.
 
-The project is a work in progress. Full, scene-by-scene parity with the original has not been verified.
 
 ## Features
 
@@ -19,7 +18,7 @@ The project is a work in progress. Full, scene-by-scene parity with the original
 
 ## Compatibility
 
-The local build targets Kirikiroid2 running through PlayCover on macOS. Other devices and runtime versions have not been verified.
+The local build targets Kirikiroid2 running through PlayCover on macOS.
 
 ## Known Issues
 
