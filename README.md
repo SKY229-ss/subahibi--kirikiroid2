@@ -4,7 +4,7 @@ An experimental adaptation of **Wonderful Everyday (Subahibi)** for Kirikiroid2 
 
 ## Project Status
 
-The local adaptation has reached revision 14. The work currently isn't finished, several bugs still appear in the game itself, fixed will be done as soon as possible.
+The local adaptation has reached revision 14. The work currently isn't finished, several bugs still appear in the game itself, fix will be done as soon as possible.
 
 
 ## Features
